@@ -1,0 +1,24 @@
+#btn-whats {
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: none;
+  -webkit-box-shadow: 0px 0px 60px 0px rgba(37,211,102,1);
+  -moz-box-shadow: 0px 0px 60px 0px rgba(37,211,102,1);
+  box-shadow: 0px 0px 60px 0px rgba(37,211,102,1);
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  background-color: #25d366;
+}
+
+#icon-whats {
+  color: #fff;
+  font-size: 30px;
+}
+
